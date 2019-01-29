@@ -1,0 +1,11 @@
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\bin\Debug\netcoreapp2.0\movies.deps.json
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\bin\Debug\netcoreapp2.0\movies.runtimeconfig.json
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\bin\Debug\netcoreapp2.0\movies.runtimeconfig.dev.json
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\bin\Debug\netcoreapp2.0\movies.dll
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\bin\Debug\netcoreapp2.0\movies.pdb
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\obj\Debug\netcoreapp2.0\movies.csprojAssemblyReference.cache
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\obj\Debug\netcoreapp2.0\movies.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\obj\Debug\netcoreapp2.0\movies.AssemblyInfoInputs.cache
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\obj\Debug\netcoreapp2.0\movies.AssemblyInfo.cs
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\obj\Debug\netcoreapp2.0\movies.dll
+C:\Users\Owner\Source\Repos\web-task-1-movies-DanielleM565\movies\movies\obj\Debug\netcoreapp2.0\movies.pdb
